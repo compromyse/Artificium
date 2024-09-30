@@ -1,6 +1,44 @@
-[{
-  "id": "1",
-  "label": "1",
-  "group_ids": ["24"],
-  "name": "someteam"
-}]
+[
+  {
+    "id": "8",
+    "label": "1",
+    "group_ids": ["3"],
+    "name": "demoteam1"
+  },
+  {
+    "id": "2",
+    "label": "2",
+    "group_ids": ["3"],
+    "name": "demoteam2"
+  },
+  {
+    "id": "3",
+    "label": "3",
+    "group_ids": ["3"],
+    "name": "demoteam3"
+  },
+  {
+    "id": "4",
+    "label": "4",
+    "group_ids": ["3"],
+    "name": "demoteam4"
+  },
+  {
+    "id": "5",
+    "label": "5",
+    "group_ids": ["3"],
+    "name": "demoteam5"
+  },
+  {
+    "id": "6",
+    "label": "6",
+    "group_ids": ["3"],
+    "name": "demoteam6"
+  },
+  {
+    "id": "7",
+    "label": "7",
+    "group_ids": ["3"],
+    "name": "demoteam7"
+  }
+]

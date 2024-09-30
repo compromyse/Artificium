@@ -1,0 +1,41 @@
+- id: demo1
+  username: demo1
+  password: demoteam1
+  type: team
+  team_id: "8"
+
+- id: demo2
+  username: demo2
+  password: demoteam2
+  type: team
+  team_id: "2"
+
+- id: demo3
+  username: demo3
+  password: demoteam3
+  type: team
+  team_id: "3"
+
+- id: demo4
+  username: demo4
+  password: demoteam4
+  type: team
+  team_id: "4"
+
+- id: demo5
+  username: demo5
+  password: demoteam5
+  type: team
+  team_id: "5"
+
+- id: demo6
+  username: demo6
+  password: demoteam6
+  type: team
+  team_id: "6"
+
+- id: demo7
+  username: demo7
+  password: demoteam7
+  type: team
+  team_id: "7"
